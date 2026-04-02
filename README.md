@@ -49,6 +49,15 @@ Git, Linux
 * Backpropagation & différentiation automatique
 * Construction complète d’un pipeline d’entraînement
 
+### 🤖 AI Hiking Agent — Grenoble
+
+*Agent IA capable de répondre à des questions complexes sur les randonnées autour de Grenoble.
+
+*Web scraping + base de données SQLite
+*Requêtes SQL, filtrage et agrégation
+*Calculs géographiques (distance, itinéraire)
+*Sélection dynamique d’outils via un agent
+
 ---
 
 ## 🎓 Formation
