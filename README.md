@@ -52,10 +52,10 @@ Git, Linux
 
 ### 🤖 AI Hiking Agent — Grenoble
 
-*Web scraping + base de données SQLite
-*Requêtes SQL, filtrage et agrégation
-*Calculs géographiques (distance, itinéraire)
-*Sélection dynamique d’outils via un agent
+* Web scraping + base de données SQLite
+* Requêtes SQL, filtrage et agrégation
+* Calculs géographiques (distance, itinéraire)
+* Sélection dynamique d’outils via un agent
 
 ---
 
