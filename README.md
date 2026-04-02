@@ -68,7 +68,7 @@ Git, Linux
 
 ## 🌍 Langues
 
-* 🇫🇷 Français : natif
+* 🇫🇷 Français : Natif
 * 🇬🇧 Anglais : C1 (TOEIC 935)
 * 🇪🇸 Espagnol : B2
 * 🇯🇵 Japonais : A2
@@ -81,14 +81,3 @@ Git, Linux
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME\&show_icons=true\&theme=radical)
-
-![Streak](https://streak-stats.demolab.com/?user=TON_USERNAME)
-
----
-
-## ⚡ Fun fact
-
-♟️ Amateur d’échecs, passionné d’astronomie et de programmation
