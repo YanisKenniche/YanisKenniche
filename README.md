@@ -48,6 +48,7 @@ Git, Linux
 * Implémentation d’un moteur tensoriel
 * Backpropagation & différentiation automatique
 * Construction complète d’un pipeline d’entraînement
+---
 
 ### 🤖 AI Hiking Agent — Grenoble
 
